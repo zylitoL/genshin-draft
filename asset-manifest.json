@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/genshin-draft/static/css/main.f22c655c.css",
-    "main.js": "/genshin-draft/static/js/main.0ed125bc.js",
+    "main.js": "/genshin-draft/static/js/main.548525cc.js",
     "static/js/787.b5e96aa2.chunk.js": "/genshin-draft/static/js/787.b5e96aa2.chunk.js",
     "static/media/Yanfei_card.png": "/genshin-draft/static/media/Yanfei_card.f563f69d763bf625197f.png",
     "static/media/Barbara_card.png": "/genshin-draft/static/media/Barbara_card.d43368136a07d36d5b24.png",
@@ -53,11 +53,11 @@
     "static/media/Kamisato_Ayaka_card.png": "/genshin-draft/static/media/Kamisato_Ayaka_card.cc75ab1baf3dfdda12dc.png",
     "index.html": "/genshin-draft/index.html",
     "main.f22c655c.css.map": "/genshin-draft/static/css/main.f22c655c.css.map",
-    "main.0ed125bc.js.map": "/genshin-draft/static/js/main.0ed125bc.js.map",
+    "main.548525cc.js.map": "/genshin-draft/static/js/main.548525cc.js.map",
     "787.b5e96aa2.chunk.js.map": "/genshin-draft/static/js/787.b5e96aa2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f22c655c.css",
-    "static/js/main.0ed125bc.js"
+    "static/js/main.548525cc.js"
   ]
 }
